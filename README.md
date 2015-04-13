@@ -1,14 +1,14 @@
 ###Developers
-John Franti, Geoff WInner
+Abeer Khakwani, Geoff WInner
 
 ###Date
-April 9, 2015<br />
+April 13, 2015<br />
 
 ###Description
-Scrabble Score
-Allows users to check Scrabble scores.
+Places Book 
+Allows users to check enter places they have been and other info..
 
-###Copyright (c) 2015 John Franti, Geoff Winner
+###Copyright (c) 2015 Abeer Khakwani, Geoff Winner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
